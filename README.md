@@ -18,5 +18,8 @@ Dans le sous-dossier code_4_print, vous trouverez les fichiers nécessaires pour
 
 Lien utile
 
-Recreator 3D MK5 (Kit pour Ender 3) sur Printables
-Video du montage
+[Recreator 3D MK5 (Kit pour Ender 3) sur Printables
+]([url](https://www.printables.com/model/179820-recreator-3d-mk5kit-ender3-pultrusion-unit/files))
+
+[Video du montage
+]([url](https://viacesifr-my.sharepoint.com/personal/jeanne_thiou_viacesi_fr/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjeanne%5Fthiou%5Fviacesi%5Ffr%2FDocuments%2FCESI%2FA5%2FIng%C3%A9nieur%20durable%2FThe%20recreator%20V2%2Emov&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E345a1ce6%2De052%2D4ac6%2Db5fd%2D07d3282e3960))
